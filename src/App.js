@@ -39,6 +39,7 @@ const Form = styled.div`
 `
 
 const Button = styled.button`
+  align-items: center;
   background-color: #fff;
   border-radius: 3px;
   border: 1px solid #d5d5d5;
@@ -46,6 +47,7 @@ const Button = styled.button`
   display: flex;
   font-size: 14px;
   height: 40px;
+  justify-content: center;
   margin: 0 0 0 auto;
   outline: none;
   padding: 0 20px;
